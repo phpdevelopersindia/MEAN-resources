@@ -22,12 +22,17 @@
 * [TDD and BDD With The MEAN Stack: Introduction](http://attackofzach.com/tdd-bdd-mean-part1/)
 * [BDD with MEAN – The Server Part 1](http://attackofzach.com/bdd-with-mean-the-server-part-1/)
 * [Continuous Integration with the MEAN Stack](http://attackofzach.com/continuous-integration-with-the-mean-stack/)
-* []()
+* [ntro to the MEAN Stack - Part 1 - The Data](http://progadventure.blogspot.com.br/2013/11/intro-to-mean-stack-part-1-data.html)
+* [REST Service with Web Interface using the MEAN Stack](http://www.qat.com/rest-service-web-interface-using-mean-stack/)
+* [MEAN Stack Resources (MongoDB, ExpressJS, AngularJS & Node.js)](http://www.eightytwenty.co/mean-stack-resources-mongodb-expressjs-angularjs-node-js/)
 
 ## Videos
 
 * [Getting MEAN](https://www.youtube.com/watch?v=XwSFg8nqBFA)
-* []()
+* [Introduction to the MEAN Stack](https://www.youtube.com/watch?v=1Sy3vWJ1N2U)
+* [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB](https://www.youtube.com/watch?v=9LFsQSNrQ_U)
+* [Let's Get CRUDdy: AngularJS and Node.js Ferrari Example](https://www.youtube.com/watch?v=T-luUYq_obQ)
+* [M.E.A.N. - a stack do hipsters (pt-br)](https://www.youtube.com/watch?v=7m_XmSJxSg8)
 
 ## Courses
 
@@ -41,5 +46,8 @@
 ## Slides
 
 * [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
-* []()
+
+## Podcasts
+
+* [092 JSJ The MEAN Stack with Ward Bell and Valeri Karpov](http://javascriptjabber.com/092-jsj-the-mean-stack-with-ward-bell-and-valeri-karpov/)
 
