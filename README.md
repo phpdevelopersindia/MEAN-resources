@@ -15,9 +15,19 @@
 * [The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js](The MEAN Stack: MongoDB, ExpressJS, AngularJS, and Node.js)
 * [Setting Up a MEAN Stack Single Page Application](http://scotch.io/bar-talk/setting-up-a-mean-stack-single-page-application)
 * [Node and Angular To-Do App](http://scotch.io/series/node-and-angular-to-do-app)
+* [Single Page Apps with AngularJS Routing and Templating](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
+* [A Sample App with Node.js, Express and MongoDB – Part 1](http://blog.ijasoneverett.com/2013/03/a-sample-app-with-node-js-express-and-mongodb-part-1/)
+* [A Sample App with Node.js, Express and MongoDB – Part 2](http://blog.ijasoneverett.com/2013/04/a-sample-app-with-node-js-express-and-mongodb-part-2/)
+* [The MEAN Stack: MongoDB, ExpressJS, AngularJS and Node.js - blog MongoDB](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
+* [TDD and BDD With The MEAN Stack: Introduction](http://attackofzach.com/tdd-bdd-mean-part1/)
+* [BDD with MEAN – The Server Part 1](http://attackofzach.com/bdd-with-mean-the-server-part-1/)
+* [Continuous Integration with the MEAN Stack](http://attackofzach.com/continuous-integration-with-the-mean-stack/)
 * []()
 
 ## Videos
+
+* [Getting MEAN](https://www.youtube.com/watch?v=XwSFg8nqBFA)
+* []()
 
 ## Courses
 
@@ -27,4 +37,9 @@
 ## Books
 
 * [Getting MEAN with Mongo, Express, Angular, and Node](http://www.manning.com/sholmes/)
+
+## Slides
+
+* [WELCOME TO THE MEAN STACK: MONGODB, EXPRESS, ANGULARJS, NODE](http://robrich.org/slides/welcome_to_the_mean_stack/#/)
+* []()
 
